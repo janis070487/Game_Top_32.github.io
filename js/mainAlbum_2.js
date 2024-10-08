@@ -13,7 +13,7 @@ cont.ShowElement();
 console.log(cont);
 
 
-var topGame = new TopGame(list, "foto/Album_2/", "png");
+var topGame = new TopGame(list2, "foto/Album_2/", "png");
 var dalibnieki = topGame.GetNext();
 //console.log(dalibnieki);
 var slide1 = new Slide("slide1");
